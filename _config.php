@@ -1,6 +1,6 @@
 <?php
 
-define("SYNTAX_DIR","syntaxhighlighter");
+define("SYNTAX_DIR",basename(__DIR__));
 
 Object::add_extension("Page", "SyntaxHighlightedPage");
 
