@@ -2,10 +2,6 @@
 
 Allows creating syntax-highlighted code snippets within TinyMCE.
 
-## Maintainers
-
- * Jeremy Shipman (Jedateach) jeremy@burnbright.net
-
 ## Usage
 
 In your TinyMCE editor, click the 'Syntaxhighlighter' button. Use the provided form to choose language type, and enter/paste code in space provided.
